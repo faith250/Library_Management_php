@@ -168,3 +168,13 @@ section .sec_img
     background-position: center; 
 
 }
+form .login
+{
+    margin:  auto 125px;
+}
+input
+{
+    height: 25px;
+    width: 300px;
+
+}
